@@ -87,6 +87,7 @@ const Header = () => {
                         className={`absolute left-0 top-full w-auto bg-white p-6 shadow-lg rounded-lg dark:bg-dark transition-all duration-300 ${
                           activeMenuIndex === index ? 'block' : 'hidden'
                         }`}
+                        style={{ zIndex: 1000 }} // Ensure submenu is on top
                       >
                         <div className="flex space-x-6 p-4">
                           {item.subMenu.map((sub, idx) => (
