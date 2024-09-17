@@ -56,10 +56,10 @@ const Hero = () => {
           {/* Content Section */}
           <div className="text-white space-y-6">
             <h1 className="text-4xl sm:text-5xl font-bold">
-              Advance your engineering skills with us.
+              SupernovasAcademy
             </h1>
             <p className="text-lg">
-              Build skills with our courses and mentorship from world-class companies.
+            A cutting-edge educational platform designed for seamless learning across a diverse range of subjects including Science, Arts, Commercial subjects, and Languages.          
             </p>
             <div className="flex flex-wrap gap-4">
               <button className="bg-blue-950 px-6 py-3 rounded-lg text-lg hover:bg-blue-900 transition duration-150">

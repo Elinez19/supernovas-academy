@@ -129,7 +129,7 @@ const Header = () => {
                     </>
                   ) : (
                     <Link
-                      href={item.url}
+                      href="/signin"
                       className="text-base font-medium px-4 py-2 hover:text-primary dark:text-dark-6 transition-all duration-200"
                     >
                       {item.label}

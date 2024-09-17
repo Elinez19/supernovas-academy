@@ -11,7 +11,7 @@ export const menuItems = [
       {
         title: 'Popular Courses',
         links: [
-          { name: 'Web Development', url: '/courses/web-development' },
+          { name: 'Web Development', url: '/course' },
           { name: 'Data Science', url: '/courses/data-science' },
           { name: 'Mobile App Development', url: '/courses/mobile-app-development' },
           { name: 'Cybersecurity', url: '/courses/cybersecurity' },
